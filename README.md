@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sendykuriel
 - 👀 I’m interested in Programing and Data Science
 - 🌱 I’m currently learning Ract JS
-- 💞️ I’m looking to collaborate on Data and DS Projects
+- 💞️ I’m looking to collaborate on Data and DS Projects in WEB3
 - 📫 How to reach me sendykuriel@gmail.com
 
 <!---
